@@ -1,0 +1,11 @@
+1 - Escreva um programa que leia dois numeros inteiros, o propgrama deverar imprimir o dividendo, divisor, resto e quociente da divisao do primeiro pelo segundo numero
+
+2 - Escreva um programa que leia um numero inteiro de 3 digitos e imprima o segundo numero
+
+3 - Escreva um programa que leia quatro numeros inteiros e imprima a media ponderada desses quatro numeros, sendo que os pesos serao 1,2,3,4 respequitivamente
+
+4 - Escreva um programa que calcule um salario de um professor, o programa deve ler o valor da hora/aula e o numero de aulas dadas por mes, o programa deve descontar o percentual de INSS
+
+5 - Esvreva um programa que leia um numero inteiro de 4 digitos e verifique se esse numero é palindromo
+
+6 - Escreva um programa que simule um caixa eletronico, este caixa deverar ter notas de 1, de 10, de 50 e 100 reais, apenas valores inteiros

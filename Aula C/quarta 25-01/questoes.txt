@@ -1,0 +1,19 @@
+1 - Escreva um programa que leia um número de três dígitos e imprima o seu inverso; OK
+
+2 - Escreva um programa que leia uma número inteiro e imprima a sua raiz quadrada; 0K
+
+3 - Escreva um programa que leia dois números inteiros e imprima a potenciação do primeiro número como base e o segundo como expoente; OK
+
+4 - Escreva um programa que leia um número inteiro e informe se ele é par ou impar; OK
+
+5 - Escreva um programa que leia um número e se ele for maior do que 20, então imprimir a metade do número; OK
+
+6 - Escreva um programa que leia um número e, se ele for positivo, imprima seu inverso; caso contrário, imprima o valor absoluto do número; OK
+
+7 - Escreva um programa que leia um número e imprima se ele é positivo, negativo ou nulo; OK
+
+8 - Escreva um programa que permita ao aluno responder qual a capital do Brasil. Todas as possibilidades deverão ser pensadas (Brasilia, brasilia); OK
+
+9 - Escreva um programa que leia dois números e mostre qual o maior e qual o menor; OK
+
+10 - Escreva um programa que leia o total de votos de três candidatos. O programa deverá informar qual foi o vencedor e qual foi o candidato que recebeu menos votos. OK
